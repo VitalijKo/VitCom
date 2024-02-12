@@ -1,8 +1,6 @@
 {
   "name": "vitcom",
   "version": "1.0.0",
-  "author": "Corruptor",
-  "description": "",
   "scripts": {
     "dev": "next dev",
     "build": "next build",
